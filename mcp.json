@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postlybee": {
+      "type": "http",
+      "url": "https://api.postlybee.com/mcp"
+    }
+  }
+}

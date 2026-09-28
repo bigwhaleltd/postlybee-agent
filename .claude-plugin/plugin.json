@@ -1,0 +1,30 @@
+{
+  "name": "postlybee",
+  "displayName": "PostlyBee",
+  "version": "1.0.0",
+  "description": "Schedule, draft, and publish social media posts, upload media, and read analytics through PostlyBee from Claude Code.",
+  "author": {
+    "name": "PostlyBee",
+    "url": "https://postlybee.com",
+    "email": "support@postlybee.com"
+  },
+  "homepage": "https://postlybee.com/agents/claude-code",
+  "repository": "https://github.com/JimBob-indie/postlybee-agent",
+  "license": "MIT",
+  "keywords": [
+    "postlybee",
+    "social-media",
+    "scheduling",
+    "instagram",
+    "linkedin",
+    "x",
+    "tiktok",
+    "youtube"
+  ],
+  "mcpServers": {
+    "postlybee": {
+      "type": "http",
+      "url": "https://api.postlybee.com/mcp"
+    }
+  }
+}

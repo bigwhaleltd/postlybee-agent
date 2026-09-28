@@ -1,0 +1,15 @@
+{
+  "name": "postlybee",
+  "description": "PostlyBee plugins for scheduling social media posts from Claude Code",
+  "owner": {
+    "name": "PostlyBee",
+    "email": "support@postlybee.com"
+  },
+  "plugins": [
+    {
+      "name": "postlybee",
+      "source": "./",
+      "description": "Schedule, draft, and publish social media posts, upload media, and read analytics through PostlyBee."
+    }
+  ]
+}

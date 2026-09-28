@@ -1,0 +1,10 @@
+{
+  "name": "postlybee",
+  "version": "1.0.0",
+  "description": "Schedule, draft, and publish social media posts, upload media, and read analytics through PostlyBee. Bundles the PostlyBee skill and the hosted PostlyBee MCP server, which signs in with OAuth.",
+  "mcpServers": {
+    "postlybee": {
+      "httpUrl": "https://api.postlybee.com/mcp"
+    }
+  }
+}
