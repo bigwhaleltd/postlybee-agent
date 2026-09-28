@@ -64,6 +64,8 @@ MCP servers. [`mcp.json`](mcp.json) has a ready-made entry. Setup guides:
 - [Codex](https://postlybee.com/agents/codex)
 - [Cursor](https://postlybee.com/agents/cursor)
 - [Gemini CLI](https://postlybee.com/agents/gemini)
+- [Kimi Code](https://postlybee.com/agents/kimi)
+- [Any agent with a shell (CLI)](https://postlybee.com/agents/cli)
 
 ## Sign in for the CLI
 
