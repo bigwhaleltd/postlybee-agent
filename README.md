@@ -21,8 +21,8 @@ already connected. MCP and API access are included in every paid plan, with a
 
 ### Any agent that supports skills
 
-Works with Claude Code, Codex, Cursor, Gemini CLI, Kimi Code CLI, OpenClaw,
-Hermes Agent, GitHub Copilot, and
+Works with Claude Code, Codex, Cursor, Gemini CLI, Grok Build, Kimi Code CLI,
+OpenClaw, Hermes Agent, GitHub Copilot, and
 [many others](https://github.com/vercel-labs/skills#supported-agents):
 
 ```bash
@@ -65,6 +65,10 @@ MCP servers. [`mcp.json`](mcp.json) has a ready-made entry. Setup guides:
 - [Cursor](https://postlybee.com/agents/cursor)
 - [Gemini CLI](https://postlybee.com/agents/gemini)
 - [Kimi Code](https://postlybee.com/agents/kimi)
+- [Grok Build](https://postlybee.com/agents/grok-build)
+- [OpenClaw](https://postlybee.com/agents/openclaw)
+- [Hermes Agent](https://postlybee.com/agents/hermes)
+- [Perplexity Computer](https://postlybee.com/agents/perplexity-computer)
 - [Any agent with a shell (CLI)](https://postlybee.com/agents/cli)
 
 ## Sign in for the CLI
