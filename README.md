@@ -26,7 +26,7 @@ Hermes Agent, GitHub Copilot, and
 [many others](https://github.com/vercel-labs/skills#supported-agents):
 
 ```bash
-npx skills add JimBob-indie/postlybee-agent
+npx skills add bigwhaleltd/postlybee-agent
 ```
 
 Add `-a <agent>` to pick an agent, for example `-a codex`, and `-g` to install
@@ -37,7 +37,7 @@ for all your projects.
 Installs the skill and the PostlyBee MCP server together:
 
 ```text
-/plugin marketplace add JimBob-indie/postlybee-agent
+/plugin marketplace add bigwhaleltd/postlybee-agent
 /plugin install postlybee@postlybee
 ```
 
@@ -48,7 +48,7 @@ Run `/mcp` and authenticate `postlybee` to sign in.
 Installs the skill and the PostlyBee MCP server together:
 
 ```bash
-gemini extensions install https://github.com/JimBob-indie/postlybee-agent
+gemini extensions install https://github.com/bigwhaleltd/postlybee-agent
 ```
 
 Then run `/mcp auth postlybee` inside Gemini CLI to sign in.
