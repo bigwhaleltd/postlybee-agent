@@ -69,6 +69,11 @@ MCP servers. [`mcp.json`](mcp.json) has a ready-made entry. Setup guides:
 - [OpenClaw](https://postlybee.com/agents/openclaw)
 - [Hermes Agent](https://postlybee.com/agents/hermes)
 - [Perplexity Computer](https://postlybee.com/agents/perplexity-computer)
+- [Grok Bot](https://postlybee.com/agents/grok-bot)
+- [DeepSeek Harness](https://postlybee.com/agents/deepseek)
+- [Meta Muse](https://postlybee.com/agents/muse)
+- [NanoClaw](https://postlybee.com/agents/nanoclaw)
+- [Paperclip](https://postlybee.com/agents/paperclip)
 - [Any agent with a shell (CLI)](https://postlybee.com/agents/cli)
 
 ## Sign in for the CLI
